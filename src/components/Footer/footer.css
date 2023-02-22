@@ -1,0 +1,92 @@
+.navbar-logos {
+    /* margin: 80px; */
+    /* margin: 0 80px 10px 100px; */
+    font-family: 'Helvetica Neue', sans-serif;
+    font-size: 2.5rem;
+    color: #20404A;
+    text-decoration: none;
+}
+
+@media (max-width: 768px) {
+    #hide-on-mobile {
+        display: none;
+    }
+}
+
+.questions {}
+
+.help {
+    font-size: 20px;
+}
+
+.follow {
+    font-size: 14px;
+}
+
+/* 
+.navbar-logos {
+    font-size: 2rem;
+    color: #333;
+    text-decoration: none;
+    font-weight: bold;
+} */
+
+
+
+.footer-text {
+    font-size: 1.2rem;
+    line-height: 1.8rem;
+    color: #333;
+}
+
+.footer-link {
+    text-decoration: none;
+    color: #333;
+    font-size: 1.2rem;
+}
+
+.footer-link:hover {
+    color: #00bfff;
+}
+
+.footer-header {
+    font-size: 1.5rem;
+    font-weight: bold;
+    color: #333;
+}
+
+.social-icons {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 1rem;
+}
+
+.social-icon {
+    width: 2.5rem;
+    height: 2.5rem;
+    color: #333;
+}
+
+.social-icon:hover {
+    color: #00bfff;
+}
+
+.app-store-icons {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 1rem;
+}
+
+.app-store-icon {
+    width: 4rem;
+    height: 4rem;
+    color: #333;
+}
+
+.app-store-icon:hover {
+    color: #00bfff;
+}
+
+.paper {
+    border: 1px solid #94CCDE;
+}
